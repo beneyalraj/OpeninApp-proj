@@ -1,2 +1,2 @@
 
-https://abi-beniyal-openinapp-proj.netlify.app
+https://abi-beniyal-openinapp.netlify.app
